@@ -86,3 +86,7 @@ $(function () {
     }
   });
 });
+
+//横幅375px以下のviewportの設定
+  new ViewportExtra(375)
+
